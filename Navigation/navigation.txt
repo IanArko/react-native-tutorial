@@ -1,0 +1,15 @@
+Navigation
+===========================================
+Navigation is an important part of React Native. It is how we get from page to page.
+In a normal web browser, we'd be able to use an anchor tag to get around. However, these
+aren't a part of React or React Native, so there are other solutions. There are two main ways of navigating.
+You can create a stack navigator (feels more like a web browser) or you can create a drawer navigator (feels
+more like an app).
+
+Stack
+-------------------------------------------
+
+
+Drawer 
+-------------------------------------------
+https://www.youtube.com/watch?v=7uhJN4kVS6g
